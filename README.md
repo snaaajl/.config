@@ -24,13 +24,4 @@ for the flaming hot sun \
  too exit all glava run
  ```killall glava```
  
- # follow these commands if you use vim
 
-```bash
-git clone https://github.com/arsalanyavari/vimrc.git /tmp/.vim \
-&& mv /tmp/.vim/.vimrc ~/.vimrc \
-&& git clone https://github.com/gmarik/Vundle.vim.git ~/.vim/bundle/Vundle.vim \
-&& vim '+PluginInstall'
-```
-then press `:qa!`
-***
