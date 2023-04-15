@@ -7,6 +7,6 @@ https://github.com/jarcode-foss/glava
 # install config
 ```sudo pacman -S glava```
 \
-put in ~/.config/glava \
+put in ~/.config/glava 
 # run 
 ```glava -m bars -d &; glava -m radial -d &```
