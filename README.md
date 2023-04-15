@@ -6,10 +6,19 @@ I've been playing around with the GLava config files a bit, making it look like 
 from source 
 \
 https://github.com/jarcode-foss/glava
-
-# on arch
+\
+\
+on arch
 ```sudo pacman -S glava``` \
 \
-put glava/ in ~/.config/glava 
+```glava --copy-config ``` \
+```git clone https://github.com/snaaajl/.config.git -S glava``` \
+```cp .config/glava ~/.config/``` \
+
 # run 
-```glava -m bars -d &; glava -m radial -d &```
+\
+for the bars
+```glava -m bars -d &``` \
+\
+for the flaming hot sun \
+```glava -m radial -d &```
