@@ -12,7 +12,7 @@ on arch ```sudo pacman -S glava``` \
 \
 to copy default config files into home ```glava --copy-config ``` \
 clone my config ```git clone https://github.com/snaaajl/.config.git -S glava``` \
-if you didn't clone directly intto home ```cp .config/glava ~/.config/``` \
+if you didn't clone directly intto home ```cp .config/glava ~/.config/```
 
 # run 
 \
